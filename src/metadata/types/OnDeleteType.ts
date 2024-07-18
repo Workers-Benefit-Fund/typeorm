@@ -5,5 +5,5 @@ export type OnDeleteType =
     | "RESTRICT"
     | "CASCADE"
     | "SET NULL"
-    | "DEFAULT"
+    | "SET DEFAULT"
     | "NO ACTION"
